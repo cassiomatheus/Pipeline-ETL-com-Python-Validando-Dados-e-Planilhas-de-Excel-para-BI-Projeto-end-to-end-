@@ -1,0 +1,1 @@
+# Pipeline-ETL-com-Python-Validando-Dados-e-Planilhas-de-Excel-para-BI-Projeto-end-to-end-
